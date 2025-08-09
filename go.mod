@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/fabricadasaudade/new_website
 
 go 1.24.6
 
